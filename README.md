@@ -4,7 +4,7 @@
   <br />
   <img src="assets/perfil-icon.png" alt="rebornZ-mascote" width="88" />
 
-  <h1>James Douglas Streck da Palma</h1>
+  <h1>James da Palma</h1>
   <p><strong>Desenvolvedor Full Stack · Back-end</strong></p>
   <p>Transformando demandas e problemas em soluções através da tecnologia.</p>
 
@@ -122,5 +122,5 @@ Integro a equipe de Desenvolvimento e Soluções do SIGAD, contribuindo para a e
   <p>Aberto a conexões profissionais, oportunidades e projetos colaborativos.</p>
   <a href="mailto:contato.jamesdouglasstreck@gmail.com">Entre em contato</a>
   <br /><br />
-  <sub>James Douglas Streck da Palma · 2026</sub>
+  <sub>James da Palma · 2026</sub>
 </div>
