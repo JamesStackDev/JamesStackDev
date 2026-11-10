@@ -82,7 +82,7 @@ Participei do desenvolvimento de um sistema para apoiar o processo de reserva e 
 
 Desenvolvi um site de apresentação para uma profissional da área de nutrição, com foco em identidade visual, organização dos serviços e presença digital. O projeto envolveu estruturação de conteúdo e construção de uma interface voltada à experiência de navegação.
 
-https://app.netlify.com/projects/eduarda-ferraz-nutricao-endurance/overview
+https://eduarda-ferraz-nutricao-endurance.netlify.app
 
 ### ASTEN AVMB - Sigad
 
